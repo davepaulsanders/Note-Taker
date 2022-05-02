@@ -23,7 +23,6 @@ router.post("/notes", (req, res) => {
 
 router.delete("/notes/:id", (req, res) => {
   const id = req.params.id;
-  console.log(id);
   notes = notes.filter((note) => note.id !== id);
   fs.writeFileSync(
     path.join(__dirname, "../../db/db.json"),
