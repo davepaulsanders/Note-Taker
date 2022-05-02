@@ -4,8 +4,6 @@ This app allows a user to create and save notes using a simple JSON file as a "d
 
 ## Screenshots
 
-
-
 ## Installation
 
 To install, `git clone` the repository and run `npm install` to install dependencies.
