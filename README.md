@@ -4,13 +4,13 @@ This app allows a user to create and save notes using a simple JSON file as a "d
 
 ## Screenshots
 
-## Installation
+## Installation and Start Up
 
-To install, `git clone` the repository and run `npm install` to install dependencies.
+To install, `git clone` the repository and run `npm install` to install dependencies.  The server can be started by running `npm start` in the terminal, and then visiting the appropriate localhost.
 
 ## Live site
 
-You can visit the site at:
+You can visit the site [here!](https://git.heroku.com/note-taker-heroku3.git)
 
 ## Technologies
 
